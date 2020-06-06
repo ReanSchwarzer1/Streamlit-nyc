@@ -1,6 +1,6 @@
 # Streamlit-nyc
 
-![Making-of Animation](https://raw.githubusercontent.com/ReanSchwarzer1/Streamlit-nyc/blob/master/running1.gif "Making-of Animation")
+![Making-of Animation](https://github.com/ReanSchwarzer1/Streamlit-nyc/blob/master/running1.gif "Making-of Animation")
 
 
 
