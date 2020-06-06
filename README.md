@@ -10,3 +10,4 @@ pip install streamlit
 pip install plotly
 streamlit run https://raw.githubusercontent.com/ReanSchwarzer1/Streamlit-nyc/blob/master/app.py
 ```
+### Keep in mind that the repository needs to be cloned and the csv data would need to be loaded as per your requirements 
