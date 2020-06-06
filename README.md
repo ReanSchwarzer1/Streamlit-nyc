@@ -12,3 +12,7 @@ streamlit run app.py
 ```
 ### Keep in mind that the repository needs to be cloned and the csv data would need to be loaded as per your requirements 
 ### The csv data is inside the .rar file so extract it with WinRar or 7Zip
+
+### Questions? Comments?
+
+Please ask in the [Streamlit community](https://discuss.streamlit.io).
